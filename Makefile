@@ -1,4 +1,4 @@
-# choose your compiler
+
 CC=gcc
 #CC=gcc -Wall
 
